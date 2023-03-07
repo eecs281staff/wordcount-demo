@@ -7,9 +7,10 @@ descending order, to produce a list of the most frequently used words.
 
 ## How to
 
-After cloning the repository, you can build and run the demo with the
-following commands:
+After cloning or downloading the repository, you can build and run the demo
+with the following commands:
 
+    $ cd wordcount-demo
     $ g++ -std=c++17 wordcount.cpp -o wordcount
     $ ./wordcount
     Enter filename: getty.txt
